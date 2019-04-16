@@ -22,3 +22,6 @@ cp -r tools ~/launcher/sys.py/
 "sudo nano /etc/rc.local" open rc.local file and input this to the last line
 
 nohup python /home/cpi/launcher/sys.py/backlight_hotkey.py &
+
+
+3.reboot system
