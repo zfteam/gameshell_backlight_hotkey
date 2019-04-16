@@ -1,6 +1,7 @@
 # gameshell_backlight_hotkey
 
 Control backlight brightness everywhere!
+hotkey:shift+b shift+a  
 
 How install:
 
@@ -9,6 +10,8 @@ How install:
 sudo pip install evdev
 
 sudo pip install select
+
+git clone https://github.com/zfteam/gameshell_backlight_hotkey.git
 
 cd gameshell_backlight_hotkey
 
